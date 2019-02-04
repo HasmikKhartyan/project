@@ -1,0 +1,8 @@
+.view i{padding-left: 5px}
+.view{
+    display: flex;
+    justify-content: space-between;
+}
+.view label{
+  padding: 5px;
+}

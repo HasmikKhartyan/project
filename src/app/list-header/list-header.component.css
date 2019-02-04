@@ -1,0 +1,11 @@
+.header{
+    display: flex;
+    justify-content: center;
+}
+.header input{
+    height: 22px;
+    margin-right: 5px;
+}
+i.disable{
+    color: gainsboro;
+}

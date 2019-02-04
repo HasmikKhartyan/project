@@ -1,0 +1,5 @@
+<div class="view">
+  <label contenteditable="true"  (keydown)="updateTodo($event,todo)" (blur)="updateTodo($event,todo)" >{{todo.title}}</label>
+  <i class="fa fa-minus-circle" (click)="removeTodo(todo)"></i>
+</div>
+
